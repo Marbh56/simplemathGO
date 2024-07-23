@@ -1,7 +1,3 @@
-Certainly! Here is the updated README file:
-
----
-
 # Simple Calculator Program
 
 ## Overview
