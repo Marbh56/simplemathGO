@@ -39,9 +39,6 @@ What is the second number? 5
 
 3. **Results**: The program will calculate and display the sum, difference, product, and quotient of the entered numbers.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
